@@ -1,0 +1,38 @@
+a {
+    color: #FFFF80
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+.header {
+    background-color: gainsboro;
+    padding: 10px;
+    margin: 0;
+    margin-top: -25px;
+}
+.container {
+    display: flex;
+    align-items: flex-start;
+    font-size: 18px;
+}
+
+.left {
+    height: 100%;
+    flex: 0 0 200px;
+    background-color: #C8FC98;
+    padding: 10px;
+}
+.right {
+    padding: 10px;
+}
+
+.footer {
+    background-color: black;
+    height: 30px;
+    color: #FFFF80;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

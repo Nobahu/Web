@@ -1,0 +1,30 @@
+a {
+    color: #FFFF80
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: gainsboro;
+    padding: 10px;
+    margin: 0;
+    margin-top: -25px;
+}
+
+.footer {
+    background-color: black;
+    height: 30px;
+    color: #FFFF80;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.red-italic {
+    color:red; 
+    font-style: italic; 
+    font-weight: bold;
+}

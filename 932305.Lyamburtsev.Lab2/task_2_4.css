@@ -1,0 +1,14 @@
+.prime-container {
+    width: 100%;
+    text-align: center;
+}
+
+.container2-4 {
+    text-align: left;
+    background-color: blue;
+    color: #ffffff;
+    align-self: center;
+    width: 600px;
+    margin: 10px;
+    display: inline-block;
+}
