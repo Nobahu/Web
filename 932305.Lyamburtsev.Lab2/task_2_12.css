@@ -1,0 +1,35 @@
+.container2-12 {
+    background-color: aqua;
+    display: flex;
+    margin: 10px;
+    border: 2px solid green;
+}
+
+.left-block2-12 {
+    margin-top: 0;
+    background-color: bisque;
+    width : 300px;
+    margin-right: 5px;
+    height: 80px;
+}
+
+.right-block2-12 {
+    background-color: darkgray;
+    width: calc(85% - 60px); 
+    margin-right: 5px;
+}
+
+@media (max-width: 1000px) {
+  .container2-12 {
+    flex-direction: column;
+  }
+
+  .left-block2-12 {
+    width : 100px;
+    margin: 0;
+  }
+
+  .right-block2-12 {
+    width: 70%;
+  }
+}

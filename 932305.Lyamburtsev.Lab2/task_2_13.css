@@ -1,0 +1,49 @@
+.container2-13 {
+    background-color: aqua;
+    display: flex;
+    margin: 10px;
+    border: 2px solid green;
+}
+
+.left-block2-13 {
+    margin-top: 0;
+    background-color: bisque;
+    width : 300px;
+    height: 80px;
+}
+
+.right-block2-13 {
+    background-color: darkgray;
+    width: calc(85% - 60px); 
+}
+
+.right-block2-13 img {
+    float: right;
+    margin: 0 0 10px 10px;
+    width: 500px;
+    height: 500px;
+}
+
+.right-block2-13 p.text:not(:first-child) {
+    clear: right;
+    margin-top: 10px;
+}
+
+@media (max-width: 1000px) {
+
+  .right-block2-13 img {
+    float: right;
+    width: 300px;
+    height: 300px;
+
+  }
+
+  .left-block2-13 {
+    width : 100px;
+    padding-right: 20px;
+  }
+
+  .right-block2-13 {
+    width: 90%;
+  }
+}

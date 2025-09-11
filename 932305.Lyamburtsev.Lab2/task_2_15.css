@@ -1,0 +1,12 @@
+.inline-block2-15{
+    width: 180px;
+    height: 90px;
+    background-color: aquamarine;
+    display: inline-block;
+    margin:15px;
+}
+
+.no-need-container{
+    background-color: antiquewhite;
+    margin: 10px;
+}
