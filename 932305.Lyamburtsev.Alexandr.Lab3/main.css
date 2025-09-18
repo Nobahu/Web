@@ -29,42 +29,42 @@ html, body {
     margin: 0 430px;
 }
 
-.content__container {
+.content_container {
     display: flex;
 }
 
-.content__sidebar {
+.content_sidebar {
     flex: 30% 0 0;
     background-color: red;
     padding: 20px 10px 20px 40px;
 }
 
-.sidebar__nav {
+.nav {
     display: grid;
     gap: 10px;
 }
 
-.sidebar__link {
+.nav_item_link {
     color: #fff;
     transition: background-color 0.3s ease-out;
 }
 
-.sidebar__link:hover {
+.nav_item_link:hover {
     background-color: green;
 }
 
-.content__text {
+.content_text {
     flex: auto 1 1;
     padding: 20px 20px 5px 20px;
     text-align: justify;
 }
 
-.content__text::first-letter {
+.content_text::first-letter {
     font-size: 130%;
     color: red;
 }
 
-.content__text::selection {
+.content_text::selection {
     background-color: green;
     color: #fff;
 }
