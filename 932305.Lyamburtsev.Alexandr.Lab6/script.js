@@ -4,11 +4,19 @@ const bothNavigationBtn = document.querySelector('.table_navigation_both');
 const leftImage = document.querySelector('.table_navigation_image:nth-child(1)');
 const rightImage = document.querySelector('.table_navigation_image:nth-child(2)');
 
+<<<<<<< HEAD
 leftNavigationBtn.addEventListener('click', () => {
     createAsymmetricColumns(leftImage, rightImage);
 });
 
 rightNavigationBtn.addEventListener('click', () => {
+=======
+leftLayoutBtn.addEventListener('click', () => {
+    createAsymmetricColumns(leftImage, rightImage);
+});
+
+rightLayoutBtn.addEventListener('click', () => {
+>>>>>>> f8b05814a09f18420808cc6f07bd966bdd9542f1
     createAsymmetricColumns(rightImage, leftImage);
 });
 
