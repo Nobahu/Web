@@ -1,0 +1,19 @@
+﻿@using lab11.Services
+@inject IMathProcessor MathProcessor
+@{
+    ViewData["Title"] = "Service Injection Calculator";
+    var firstNumber = MathProcessor.GenerateValue();
+    var secondNumber = MathProcessor.GenerateValue();
+}
+
+<h2>Direct Service Access</h2>
+<p class="bold">First number: @firstNumber</p>
+<p class="bold">Second number: @secondNumber</p>
+<p class="bold">Addition:</p>
+<p>@firstNumber + @secondNumber = @(MathProcessor.Sum(firstNumber, secondNumber))</p>
+<p class="bold">Subtraction:</p>
+<p>@firstNumber - @secondNumber = @(MathProcessor.Subtract(firstNumber, secondNumber))</p>
+<p class="bold">Multiplication:</p>
+<p>@firstNumber * @secondNumber = @(MathProcessor.Multiply(firstNumber, secondNumber))</p>
+<p class="bold">Division:</p>
+<p>@firstNumber / @secondNumber = @(MathProcessor.Divide(firstNumber, secondNumber))</p>

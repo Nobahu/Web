@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Main Page";
+}
+
+<h2>Calculator Service Demo</h2>
+<ul>
+    <li><a asp-area="" asp-controller="Site" asp-action="CalculatorWithModel">Model-Based Calculator</a></li>
+    <li><a asp-area="" asp-controller="Site" asp-action="CalculatorWithViewData">ViewData Calculator</a></li>
+    <li><a asp-area="" asp-controller="Site" asp-action="CalculatorWithViewBag">ViewBag Calculator</a></li>
+    <li><a asp-area="" asp-controller="Site" asp-action="CalculatorWithInjection">Service Injection Calculator</a></li>
+</ul>

@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\932101.kopylov.danila.lab11-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA71484-3CB7-496F-829D-86A80410647A}|lab11\\lab11.csproj|c:\\users\\user\\desktop\\932101.kopylov.danila.lab11-main\\lab11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA71484-3CB7-496F-829D-86A80410647A}|lab11\\lab11.csproj|solutionrelative:lab11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA71484-3CB7-496F-829D-86A80410647A}|lab11\\lab11.csproj|c:\\users\\user\\desktop\\932101.kopylov.danila.lab11-main\\lab11\\models\\calculationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA71484-3CB7-496F-829D-86A80410647A}|lab11\\lab11.csproj|solutionrelative:lab11\\models\\calculationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA71484-3CB7-496F-829D-86A80410647A}|lab11\\lab11.csproj|c:\\users\\user\\desktop\\932101.kopylov.danila.lab11-main\\lab11\\services\\imathimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA71484-3CB7-496F-829D-86A80410647A}|lab11\\lab11.csproj|solutionrelative:lab11\\services\\imathimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA71484-3CB7-496F-829D-86A80410647A}|lab11\\lab11.csproj|c:\\users\\user\\desktop\\932101.kopylov.danila.lab11-main\\lab11\\services\\imath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA71484-3CB7-496F-829D-86A80410647A}|lab11\\lab11.csproj|solutionrelative:lab11\\services\\imath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA71484-3CB7-496F-829D-86A80410647A}|lab11\\lab11.csproj|c:\\users\\user\\desktop\\932101.kopylov.danila.lab11-main\\lab11\\models\\errormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA71484-3CB7-496F-829D-86A80410647A}|lab11\\lab11.csproj|solutionrelative:lab11\\models\\errormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA71484-3CB7-496F-829D-86A80410647A}|lab11\\lab11.csproj|c:\\users\\user\\desktop\\932101.kopylov.danila.lab11-main\\lab11\\controllers\\sitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA71484-3CB7-496F-829D-86A80410647A}|lab11\\lab11.csproj|solutionrelative:lab11\\controllers\\sitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA71484-3CB7-496F-829D-86A80410647A}|lab11\\lab11.csproj|c:\\users\\user\\desktop\\932101.kopylov.danila.lab11-main\\lab11\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5EA71484-3CB7-496F-829D-86A80410647A}|lab11\\lab11.csproj|solutionrelative:lab11\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA71484-3CB7-496F-829D-86A80410647A}|lab11\\lab11.csproj|c:\\users\\user\\desktop\\932101.kopylov.danila.lab11-main\\lab11\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5EA71484-3CB7-496F-829D-86A80410647A}|lab11\\lab11.csproj|solutionrelative:lab11\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SiteController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\932101.kopylov.danila.lab11-main\\lab11\\Controllers\\SiteController.cs",
+              "RelativeDocumentMoniker": "lab11\\Controllers\\SiteController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\932101.kopylov.danila.lab11-main\\lab11\\Controllers\\SiteController.cs",
+              "RelativeToolTip": "lab11\\Controllers\\SiteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T10:11:42.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMath.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\932101.kopylov.danila.lab11-main\\lab11\\Services\\IMath.cs",
+              "RelativeDocumentMoniker": "lab11\\Services\\IMath.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\932101.kopylov.danila.lab11-main\\lab11\\Services\\IMath.cs",
+              "RelativeToolTip": "lab11\\Services\\IMath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T10:11:42.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\932101.kopylov.danila.lab11-main\\lab11\\Models\\ErrorModel.cs",
+              "RelativeDocumentMoniker": "lab11\\Models\\ErrorModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\932101.kopylov.danila.lab11-main\\lab11\\Models\\ErrorModel.cs",
+              "RelativeToolTip": "lab11\\Models\\ErrorModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T10:11:42.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMathImpl.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\932101.kopylov.danila.lab11-main\\lab11\\Services\\IMathImpl.cs",
+              "RelativeDocumentMoniker": "lab11\\Services\\IMathImpl.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\932101.kopylov.danila.lab11-main\\lab11\\Services\\IMathImpl.cs",
+              "RelativeToolTip": "lab11\\Services\\IMathImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T10:11:42.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculationModel.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\932101.kopylov.danila.lab11-main\\lab11\\Models\\CalculationModel.cs",
+              "RelativeDocumentMoniker": "lab11\\Models\\CalculationModel.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\932101.kopylov.danila.lab11-main\\lab11\\Models\\CalculationModel.cs",
+              "RelativeToolTip": "lab11\\Models\\CalculationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T10:11:42.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\932101.kopylov.danila.lab11-main\\lab11\\Program.cs",
+              "RelativeDocumentMoniker": "lab11\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\932101.kopylov.danila.lab11-main\\lab11\\Program.cs",
+              "RelativeToolTip": "lab11\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T10:11:42.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\932101.kopylov.danila.lab11-main\\lab11\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "lab11\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\user\\Desktop\\932101.kopylov.danila.lab11-main\\lab11\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "lab11\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-11-21T15:08:43.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\932101.kopylov.danila.lab11-main\\lab11\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "lab11\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\user\\Desktop\\932101.kopylov.danila.lab11-main\\lab11\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "lab11\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-21T15:08:48.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+﻿@model ErrorModel
+@{
+    ViewData["Title"] = "Issue";
+}
+
+<h1 class="text-danger">Problem Detected.</h1>
+<h2 class="text-danger">A problem occurred during request processing.</h2>
+
+@if (Model.DisplayRequestId)
+{
+    <p>
+        <strong>Request Identifier:</strong> <code>@Model.RequestId</code>
+    </p>
+}
+
+<h3>Debug Mode</h3>
+<p>
+    Switching to <strong>Debug</strong> mode will show detailed error information.
+</p>
+<p>
+    <strong>Debug mode should be disabled in production.</strong>
+    It may expose sensitive exception details to users.
+    For local development, enable <strong>Debug</strong> mode by setting the <strong>ASPNETCORE_ENVIRONMENT</strong> variable to <strong>Development</strong>
+    and restarting the application.
+</p>
