@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xNpcZJiT/cA=",
+  "dgSpecHash": "vI3llYzcMOc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\932101.kopylov.danila.lab11-main\\lab11\\lab11.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Web\\932305.Lyamburtsev.Alexandr.Lab11\\lab11\\lab11.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
