@@ -1,0 +1,24 @@
+C:\Users\danee\Desktop\ТГУ-ИПМКН-УЧЕБА\3к5с\Web\Lab 2.3\Lab2.3\obj\Debug\net6.0\Backend 3.csproj.AssemblyReference.cache
+C:\Users\danee\Desktop\ТГУ-ИПМКН-УЧЕБА\3к5с\Web\Lab 2.3\Lab2.3\obj\Debug\net6.0\Backend 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danee\Desktop\ТГУ-ИПМКН-УЧЕБА\3к5с\Web\Lab 2.3\Lab2.3\obj\Debug\net6.0\Backend 3.AssemblyInfoInputs.cache
+C:\Users\danee\Desktop\ТГУ-ИПМКН-УЧЕБА\3к5с\Web\Lab 2.3\Lab2.3\obj\Debug\net6.0\Backend 3.AssemblyInfo.cs
+C:\Users\danee\Desktop\ТГУ-ИПМКН-УЧЕБА\3к5с\Web\Lab 2.3\Lab2.3\obj\Debug\net6.0\Backend 3.csproj.CoreCompileInputs.cache
+C:\Users\danee\Desktop\ТГУ-ИПМКН-УЧЕБА\3к5с\Web\Lab 2.3\Lab2.3\obj\Debug\net6.0\Backend 3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danee\Desktop\ТГУ-ИПМКН-УЧЕБА\3к5с\Web\Lab 2.3\Lab2.3\obj\Debug\net6.0\Backend 3.RazorAssemblyInfo.cache
+C:\Users\danee\Desktop\ТГУ-ИПМКН-УЧЕБА\3к5с\Web\Lab 2.3\Lab2.3\obj\Debug\net6.0\Backend 3.RazorAssemblyInfo.cs
+C:\Users\danee\Desktop\ТГУ-ИПМКН-УЧЕБА\3к5с\Web\Lab 2.3\Lab2.3\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\danee\Desktop\ТГУ-ИПМКН-УЧЕБА\3к5с\Web\Lab 2.3\Lab2.3\bin\Debug\net6.0\appsettings.json
+C:\Users\danee\Desktop\ТГУ-ИПМКН-УЧЕБА\3к5с\Web\Lab 2.3\Lab2.3\bin\Debug\net6.0\Backend 3.staticwebassets.runtime.json
+C:\Users\danee\Desktop\ТГУ-ИПМКН-УЧЕБА\3к5с\Web\Lab 2.3\Lab2.3\bin\Debug\net6.0\Backend 3.exe
+C:\Users\danee\Desktop\ТГУ-ИПМКН-УЧЕБА\3к5с\Web\Lab 2.3\Lab2.3\bin\Debug\net6.0\Backend 3.deps.json
+C:\Users\danee\Desktop\ТГУ-ИПМКН-УЧЕБА\3к5с\Web\Lab 2.3\Lab2.3\bin\Debug\net6.0\Backend 3.runtimeconfig.json
+C:\Users\danee\Desktop\ТГУ-ИПМКН-УЧЕБА\3к5с\Web\Lab 2.3\Lab2.3\bin\Debug\net6.0\Backend 3.dll
+C:\Users\danee\Desktop\ТГУ-ИПМКН-УЧЕБА\3к5с\Web\Lab 2.3\Lab2.3\bin\Debug\net6.0\Backend 3.pdb
+C:\Users\danee\Desktop\ТГУ-ИПМКН-УЧЕБА\3к5с\Web\Lab 2.3\Lab2.3\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\danee\Desktop\ТГУ-ИПМКН-УЧЕБА\3к5с\Web\Lab 2.3\Lab2.3\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\danee\Desktop\ТГУ-ИПМКН-УЧЕБА\3к5с\Web\Lab 2.3\Lab2.3\obj\Debug\net6.0\scopedcss\bundle\Backend 3.styles.css
+C:\Users\danee\Desktop\ТГУ-ИПМКН-УЧЕБА\3к5с\Web\Lab 2.3\Lab2.3\obj\Debug\net6.0\Backend 3.dll
+C:\Users\danee\Desktop\ТГУ-ИПМКН-УЧЕБА\3к5с\Web\Lab 2.3\Lab2.3\obj\Debug\net6.0\refint\Backend 3.dll
+C:\Users\danee\Desktop\ТГУ-ИПМКН-УЧЕБА\3к5с\Web\Lab 2.3\Lab2.3\obj\Debug\net6.0\Backend 3.pdb
+C:\Users\danee\Desktop\ТГУ-ИПМКН-УЧЕБА\3к5с\Web\Lab 2.3\Lab2.3\obj\Debug\net6.0\Backend 3.genruntimeconfig.cache
+C:\Users\danee\Desktop\ТГУ-ИПМКН-УЧЕБА\3к5с\Web\Lab 2.3\Lab2.3\obj\Debug\net6.0\ref\Backend 3.dll
